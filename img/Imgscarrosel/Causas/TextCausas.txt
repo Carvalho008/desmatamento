@@ -1,0 +1,23 @@
+imagem 1:
+
+Titulo:
+Queimadas
+
+Subtiulo:
+Incêndios florestais, muitas vezes causados pelo homem, destroem vastas extensões de floresta.
+
+imagem 2:
+
+Titulo:
+Exploração Madeireira
+
+Subtiulo:
+A extração de madeira em grande escala leva ao desaparecimento de florestas.
+
+imagem 3:
+
+Titulo:
+Expansão Agrícola
+
+Subtiulo:
+O desmatamento ocorre para abrir espaço para plantações e criação de gado.

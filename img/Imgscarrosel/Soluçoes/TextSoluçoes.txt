@@ -1,0 +1,23 @@
+imagem 1:
+
+Titulo:
+Agricultura Sustentável
+
+Subtiulo:
+Incentivo à práticas agrícolas sustentáveis e agricultura de conservação.
+
+imagem 2:
+
+Titulo:
+Reflorestamento
+
+Subtiulo:
+Investimento em ações de reflorestamento para repor as áreas desmatadas.
+
+imagem 3:
+
+Titulo:
+Monitoramento
+
+Subtiulo:
+Desenvolvimento de tecnologias para monitoramento em tempo real do desmatamento.
